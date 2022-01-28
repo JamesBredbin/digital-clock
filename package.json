@@ -2,7 +2,7 @@
   "name": "digital-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamesbredbin.github.io",
+  "homepage": "https://JamesBredbin.github.io/digital-clock",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.1",
